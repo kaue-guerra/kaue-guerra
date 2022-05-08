@@ -7,7 +7,7 @@
 
 - 👨‍💻 Passionate about learning and developing
 
-- 💬 Ask me about **JavaScript, HTML, CSS, ReactJS**
+- 💬 Ask me about **JavaScript, HTML, CSS, ReactJS, C#, .Net, PHP, Laravel**
 
 - ⚡ Fun fact **I'm migrating from the accounting career to IT 😜**
 
@@ -20,6 +20,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![.Net](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=.net)&nbsp;
+![Php](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
