@@ -1,4 +1,3 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/kaue-guerra/01f47615481da792a4d879d8a29d37f7/raw/7578737c61a0e8af0d1651e1a5d96d51a7a4287a/githubcard.svg" />
 <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Kauê Guerra</h1>
 
 - 🔥 I'm a Fullstack developer focused on javascript frameworks, specifically ReactJS for frontend and focused .Net for backend
