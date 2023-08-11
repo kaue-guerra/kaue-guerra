@@ -1,14 +1,16 @@
 <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Kauê Guerra</h1>
 
-- 🔥 I'm a Fullstack developer focused on javascript frameworks, specifically ReactJS for frontend and focused .Net for backend
-
-- 🔭 Studying at Rocketseat and advancing to the next level [Profile Rocketseat](https://app.rocketseat.com.br/me/kaueguerra)
+- 🔥 I'm a Backend developer focused .NET
 
 - 👨‍💻 Passionate about learning and developing
 
 - 💬 Ask me about **JavaScript, HTML, CSS, ReactJS, C#, .Net, PHP, Laravel**
 
-- ⚡ Fun fact **I'm migrating from the accounting career to IT 😜**
+- ⚡ Fun fact **I am a father of twins 😜**
+
+- 🔭 I’m currently working on **Marlin**
+  
+- 🌱 I’m currently learning **.NET and its entire ecosystem**
 
 <br><br>
 
